@@ -21,7 +21,7 @@ Environment Management:
 Installation and Setup
 
 
-  git clone https://github.com/yourusername/real-time-chat-app.git
+  git clone git@github.com:Dina-2753/ChatApp.git
   cd real-time-chat-app
   npm install
   PORT=3000
